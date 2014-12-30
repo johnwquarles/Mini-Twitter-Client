@@ -1,5 +1,4 @@
 require 'jumpstart_auth'
-require 'time'
 require 'bitly'
 
 class MicroBlogger
